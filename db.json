@@ -6,6 +6,13 @@
       "poster_path": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg",
       "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
       "video": "KydqdKKyGEk"
+    },
+    {
+      "id": 2,
+      "title": "Fast X",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/f/f2/Fast_X_poster.jpg",
+      "overview": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+      "video": "eoOaKN4qCKw"
     }
   ]
 }
